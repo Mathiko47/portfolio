@@ -24,21 +24,21 @@ h1 {
   font-size:140%
 }
 #img_tall_left {
-  height:30;
-  width:10;
+  height:300;
+  width:100;
   float:left;
 }
 #img_wide_right {
-  height:10;
-  width:30
+  height:100;
+  width:300;
   float:right;
 }
 #img_wide_left {
-  height:10;
-  width:30
+  height:100;
+  width:300;
   float:left;
 }
 #img_equal_center {
-  height:15;
-  width:15;
+  height:150;
+  width:150;
 }
