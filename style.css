@@ -1,1 +1,36 @@
-
+body {
+  background-image:linear-gradient(to right bottom,#B0D3FF,#4E8AB5);
+}
+h1 {
+  color:#188BDE;
+  text-align:center;
+}
+#answer {
+  color:#188BDE;
+  text-align:left;
+  border-radius:9px;
+  padding:4px;
+  background: rgba(187, 235, 240,0.2);
+  font-family:"calibri";
+  font-size:140%
+}
+#question {
+  color:#0F2C61;
+  text-align:right;
+  border-radius:9px;
+  padding:4px;
+  background: rgba(187, 235, 240,0.2);
+  font-family:"calibri";
+  font-size:140%
+}
+#img1 {
+  size:1%;
+  float:left;
+}
+#img2 {
+  size:1%
+}
+#img3 {
+  size:1%
+  float:right;
+}
