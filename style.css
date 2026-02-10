@@ -23,14 +23,22 @@ h1 {
   font-family:"calibri";
   font-size:140%
 }
-#img1 {
-  size:1%;
+#img_tall_left {
+  height:30;
+  width:10;
   float:left;
 }
-#img2 {
-  size:1%
-}
-#img3 {
-  size:1%
+#img_wide_right {
+  height:10;
+  width:30
   float:right;
+}
+#img_wide_left {
+  height:10;
+  width:30
+  float:left;
+}
+#img_equal_center {
+  height:15;
+  width:15;
 }
