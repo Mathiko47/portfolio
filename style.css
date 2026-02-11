@@ -30,6 +30,7 @@ h1 {
   padding: 4px;
   border-radius: 9px; 
   text-align: left;
+  background: rgba(187, 235, 240,0.2);
 }
 #imgwr {
   height: 180;
@@ -38,6 +39,7 @@ h1 {
   padding: 4px;
   border-radius: 9px; 
   text-align: right;
+  background: rgba(187, 235, 240,0.2);
 }
 #imgwl {
   height: 180;
@@ -46,6 +48,7 @@ h1 {
   padding: 4px;
   border-radius: 9px; 
   text-align: left;
+  background: rgba(187, 235, 240,0.2);
 }
 #imgec {
   height: 320;
@@ -54,4 +57,5 @@ h1 {
   padding: 4px;
   border-radius: 9px; 
   text-align: center;
+  background: rgba(187, 235, 240,0.2);
 }
