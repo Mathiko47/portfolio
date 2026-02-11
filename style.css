@@ -1,44 +1,48 @@
 body {
-  background-image:linear-gradient(to right bottom,#B0D3FF,#4E8AB5);
+  background-image: linear-gradient(to right bottom,#B0D3FF,#4E8AB5);
 }
 h1 {
-  color:#188BDE;
-  text-align:center;
+  color: #188BDE;
+  text-align: center;
 }
 #answer {
-  color:#188BDE;
-  text-align:left;
-  border-radius:9px;
-  padding:4px;
+  color: #188BDE;
+  text-align: left;
+  border-radius: 9px;
+  padding: 4px;
   background: rgba(187, 235, 240,0.2);
-  font-family:"calibri";
-  font-size:140%
+  font-family: "calibri";
+  font-size: 140%
 }
 #question {
-  color:#0F2C61;
-  text-align:right;
-  border-radius:9px;
-  padding:4px;
+  color: #0F2C61;
+  text-align: right;
+  border-radius: 9px;
+  padding: 4px;
   background: rgba(187, 235, 240,0.2);
-  font-family:"calibri";
-  font-size:140%
+  font-family: "calibri";
+  font-size: 140%
 }
 #imgtl {
-  height:320;
-  width:180;
-  float:left;
+  height: 320;
+  width: 180;
+  float: left;
+  margin: 20px;
 }
 #imgwr {
-  height:180;
-  width:320;
-  float:right;
+  height: 180;
+  width: 320;
+  float: right;
+  margin: 20px;
 }
 #imgwl {
-  height:180;
-  width:320;
-  float:left;
+  height: 180;
+  width: 320;
+  float: left;
+  margin: 20px;
 }
 #imgec {
-  height:320;
-  width:320;
+  height: 320;
+  width: 320;
+  margin: 20px;
 }
