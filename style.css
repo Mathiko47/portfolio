@@ -25,24 +25,33 @@ h1 {
 }
 #imgtl {
   height: 320;
-  width: 180;
-  float: left;
+  width: auto;
   margin: 20px;
+  padding: 4px;
+  border-radius: 9px; 
+  text-align: left;
 }
 #imgwr {
   height: 180;
-  width: 320;
-  float: right;
+  width: auto;
   margin: 20px;
+  padding: 4px;
+  border-radius: 9px; 
+  text-align: right;
 }
 #imgwl {
   height: 180;
-  width: 320;
-  float: left;
+  width: auto;
   margin: 20px;
+  padding: 4px;
+  border-radius: 9px; 
+  text-align: left;
 }
 #imgec {
   height: 320;
-  width: 320;
+  width: auto;
   margin: 20px;
+  padding: 4px;
+  border-radius: 9px; 
+  text-align: center;
 }
