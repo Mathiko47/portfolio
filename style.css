@@ -1,5 +1,4 @@
 body {
-  background: lime;
   background-image: linear-gradient(to right bottom,#B0D3FF,#4E8AB5);
 }
 h1 {
@@ -25,7 +24,7 @@ h1 {
   font-size: 140%
 }
 #imgtl {
-  height: 180;
+  height: 1800;
   width: auto;
   margin: 6px;
   padding: 8px;
@@ -34,7 +33,7 @@ h1 {
   background: rgba(187, 235, 240,0.2);
 }
 #imgwr {
-  height: 180;
+  height: 1800;
   width: auto;
   margin: 6px;
   padding: 8px;
@@ -43,7 +42,7 @@ h1 {
   background: rgba(187, 235, 240,0.2);
 }
 #imgwl {
-  height: 180;
+  height: 1800;
   width: auto;
   margin: 6px;
   padding: 8px;
@@ -52,7 +51,7 @@ h1 {
   background: rgba(187, 235, 240,0.2);
 }
 #imgec {
-  height: 180;
+  height: 1800;
   width: auto;
   margin: 6px;
   padding: 8px;
