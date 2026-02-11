@@ -33,7 +33,7 @@ h1 {
   background: rgba(187, 235, 240,0.2);
 }
 #imgwr {
-  height: 180;
+  height: 320;
   width: auto;
   margin: 6px;
   padding: 8px;
@@ -42,7 +42,7 @@ h1 {
   background: rgba(187, 235, 240,0.2);
 }
 #imgwl {
-  height: 180;
+  height: 320;
   width: auto;
   margin: 6px;
   padding: 8px;
